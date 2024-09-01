@@ -1,0 +1,13 @@
+body {
+  background-color: #F3F6F9;
+}
+
+.header {
+  background-color: red;
+}
+.header__inner {
+  max-width: 1718px;
+  margin-inline: center;
+}
+
+/*# sourceMappingURL=styles.css.map */
